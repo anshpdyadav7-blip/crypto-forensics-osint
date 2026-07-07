@@ -27,7 +27,7 @@ During targeted downstream auditing of the aggregate node architecture, the trac
 * **Analytical Conclusion:** The exact uniform distribution of `0.0625 BTC` indicates an institutional obfuscation layer (e.g., an automated peeling chain or programmatic distribution engine) designed to neutralize traditional transaction-value correlation methodologies.
 
 ## 4. Adversarial Infrastructure Map
-``text
+````text
 [Victim Inflow] 
        │
        ▼

@@ -40,7 +40,6 @@ During targeted downstream auditing of the aggregate node architecture, the trac
        │
        ▼  (Multi-Input Script Consolidation)
 [Tier-2 Master Aggregate Node: bc1qkdp8...] ──► [Exchange Off-Ramp / Cash Out]
-
 5. Law Enforcement Hand-Off Ready
 The on-chain trace is complete. Because the threat actor's automated infrastructure centralizes assets into a high-volume aggregation node (bc1qkdp8...), the trail has hit a definitive KYC (Know Your Customer) threshold.
 

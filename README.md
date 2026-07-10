@@ -40,6 +40,7 @@ During targeted downstream auditing of the aggregate node architecture, the trac
        │
        ▼  (Multi-Input Script Consolidation)
 [Tier-2 Master Aggregate Node: bc1qkdp8...] ──► [Exchange Off-Ramp / Cash Out]
+```
 
 5. Law Enforcement Hand-Off Ready
 The on-chain trace is complete. Because the threat actor's automated infrastructure centralizes assets into a high-volume aggregation node (bc1qkdp8...), the trail has hit a definitive KYC (Know Your Customer) threshold.
@@ -59,7 +60,7 @@ Automation Engine: blockchain_tracer.py (Python 3, Powered by requests & pandas)
 Ingestion API: Blockstream Esplora REST API (Selected for native Bech32/SegWit bc1q decoding capabilities).
 
 Data Artifacts: Structured ledger telemetry outputs mapped sequentially.
-
+```text
 Repository Structure
 Plaintext
 crypto-forensics-osint/
@@ -71,6 +72,6 @@ crypto-forensics-osint/
     ├── adversary_layering_map_01.csv 
     ├── adversary_layering_map_02.csv 
     └── adversary_layering_map_03.csv 
-
-⚠️ Ethical Disclaimer
+```
+## ⚠️ Ethical Disclaimer
 This repository and its contents are for educational purposes and portfolio demonstration only. The scripts, methodologies, and indicators of compromise (IoCs) documented herein are part of a controlled, open-source intelligence (OSINT) and incident response simulation. All data was analyzed passively; no active exploitation or unauthorized interaction with external infrastructure was conducted.

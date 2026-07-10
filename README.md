@@ -27,7 +27,7 @@ During targeted downstream auditing of the aggregate node architecture, the trac
 * **Analytical Conclusion:** The exact uniform distribution of `0.0625 BTC` indicates an institutional obfuscation layer (e.g., an automated peeling chain or programmatic distribution engine) designed to neutralize traditional transaction-value correlation methodologies.
 
 ## 4. Adversarial Infrastructure Map
-````text
+```text
 [Victim Inflow] 
        │
        ▼
@@ -40,6 +40,7 @@ During targeted downstream auditing of the aggregate node architecture, the trac
        │
        ▼  (Multi-Input Script Consolidation)
 [Tier-2 Master Aggregate Node: bc1qkdp8...] ──► [Exchange Off-Ramp / Cash Out]
+```
 
 5. Law Enforcement Hand-Off Ready
 The on-chain trace is complete. Because the threat actor's automated infrastructure centralizes assets into a high-volume aggregation node (bc1qkdp8...), the trail has hit a definitive KYC (Know Your Customer) threshold.
@@ -70,7 +71,8 @@ crypto-forensics-osint/
 └── logs/                               <-- Parsed forensic ledger outputs
     ├── adversary_layering_map_01.csv 
     ├── adversary_layering_map_02.csv 
-    └── adversary_layering_map_03.csv 
+    └── adversary_layering_map_03.csv
+```
 
-⚠️ Ethical Disclaimer
+## ⚠️ Ethical Disclaimer
 This repository and its contents are for educational purposes and portfolio demonstration only. The scripts, methodologies, and indicators of compromise (IoCs) documented herein are part of a controlled, open-source intelligence (OSINT) and incident response simulation. All data was analyzed passively; no active exploitation or unauthorized interaction with external infrastructure was conducted.
